@@ -33,7 +33,7 @@
 
                     <p>welcome to movies hub , movies hub offer you any kind of movie and series also you can watch online of content of the movie and also you can download in your device and see in your gallary ,(note : this is illegal web site dont try this at home) this also provide you a see series in you phone or laptop or any devices which is connected to internet </p>
                     <p>
-                        movies hub offer you to download a series and movies and short films in different quality such as like 1080p , 720p , 480p also watch in online these platform 
+                        hub offer you to download a series and movies and short films in different quality such as like 1080p , 720p , 480p also watch in online these platform 
                     </p>
 
                     <button class="btn btn-outline-light btn-lg"> <span class="fa fa fa-user-plus"></span>  download or watch (free!!)</button>
